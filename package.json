@@ -1,0 +1,14 @@
+{
+  "name": "gladys-gmusic",
+  "version": "0.1.0",
+  "description": "Include google music services to Gladys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boimb",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "playmusic": "^2.2.0"
+  }
+}
